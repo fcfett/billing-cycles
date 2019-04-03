@@ -1,0 +1,12 @@
+.small-box, .small-box .inner > * {
+    overflow: hidden;
+}
+
+.small-box .inner > * {
+    text-overflow: ellipsis;
+}
+
+.small-box .inner {
+    position: relative;
+}
+
