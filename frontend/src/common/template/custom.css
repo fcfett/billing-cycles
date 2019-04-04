@@ -10,3 +10,9 @@
     position: relative;
 }
 
+button:not(:last-child) { margin-right: 4px; }
+
+.col-cta {
+    text-align: center;
+    width: 100px;
+}
