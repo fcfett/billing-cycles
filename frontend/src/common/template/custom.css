@@ -16,3 +16,7 @@ button:not(:last-child) { margin-right: 4px; }
     text-align: center;
     width: 100px;
 }
+
+.main-sidebar, .left-side {
+    min-height: 0% !important;
+}
